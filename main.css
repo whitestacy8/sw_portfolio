@@ -1,5 +1,5 @@
   .jumbotron {
-    background-image: url("./images/Drip_Coffee_Bangkok.jpg");
+    background-image: url("./images/great-wall-of-china.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -18,7 +18,7 @@
   }
 
   .mission{
-  	background-color: #323232;
+  	background-color: #6C7A89;
   	color: #F7FAFE;
   	margin-top: 30px;
   }
@@ -38,10 +38,10 @@
       color: #323232;
       font-size: 1.2em;
       padding-top: 10px;
-  }
+      }
 
   footer {
-  	background-color: #D64541;
+  	background-color: #6C7A89;
   	position: absolute;
   	width: 100%;
   	height: auto;
